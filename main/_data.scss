@@ -1,0 +1,99 @@
+.news-text{
+    color: #7EB693;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Yellowtail";
+    margin: 0;
+}
+.disco-text{
+    width: 700px;
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: "Roboto";
+    margin: 0;
+}
+.news-box{
+    display: flex;
+    flex-direction: column;
+}
+.news-boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.news-btn{
+    width: 220px;
+    height: 80px;
+    border-radius: 16px;
+    background: none;
+    color: #274C5B;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.svg-imges{
+    margin: -2px 17px;
+}
+.now-btn-and{
+    width: 220px;
+    height: 79px;
+    border-radius: 19px;
+    border: none;
+    color: #274C5B;
+    font-size: 20px;
+ background-color: #f0ebeb;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.now-btn-and:hover{
+    background-color: #EFD372;
+}
+.now-btn-amd:active{
+    background-color: #274C5B;
+}
+.green-card{
+    width: 504px;
+    height: 248px;
+    background-color: #ffff;
+    border-radius: 30px;
+    position: absolute;
+    margin: -201px 36px;
+    box-shadow: 0px 20px 35px 0px #A7A7A740;
+    padding-left: 26px;
+
+}
+.admin-box{
+    display: flex;
+    gap: 10px;
+}
+.card-text{
+    color: #274C5B;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+.vita-text{
+    color: #274C5B;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: "Roboto";
+    margin: 0;
+}
+.vita-title{
+    color: #525C60;
+    font-size: 16px;
+    font-weight: 400;
+    width: 444px;
+    font-family: "Open Sans";
+}
+.green-img{
+    width: 590px;
+    border-radius: 30px;
+}
+.two-cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}

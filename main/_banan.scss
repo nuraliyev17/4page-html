@@ -1,0 +1,59 @@
+.banan-card{
+    background-image: url(../img/Photo\ \(1\).jpg);
+    width: 600px;
+    height: 367px;
+    border-radius: 20px;
+}
+.natural-text{
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Yellowtail";
+    color: #FFFFFF;
+    margin: 0;
+}
+.get-text{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: "Roboto";
+    color: #FFFFFF;
+    width: 300px;
+    margin: 0;
+}
+.banan-text{
+    display: flex;
+    flex-direction: column;
+    padding-top: 110px;
+    padding-left: 40px;
+}
+.Vegetables-box{
+    background-image: url(../img/Image\ \(6\).png);
+    width: 600px;
+    height: 367px;
+    border-radius: 20px;
+}
+.ofer-text{
+    color: #7EB693;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Yellowtail";
+    margin: 0;
+}
+.of-text{
+color: #274C5B;
+font-size: 40px;
+font-weight: 800;
+font-family: "Roboto";
+width: 300px;
+margin: 0;
+}
+.ofer-box{
+    display: flex;
+    flex-direction: column;
+    padding-top: 110px;
+    padding-left: 40px; 
+}
+.two-card{
+    display: flex;
+    gap: 40px;
+    margin-top: 150px;
+}

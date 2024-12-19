@@ -1,0 +1,95 @@
+.product{
+    background-color: #F9F8F8;
+    margin-top: 80px;
+    height:1050px;
+}
+.us-text{
+color: #7EB693;
+font-size: 33px;
+font-weight: 400;
+font-family: "Yellowtail";
+}
+.from-text{
+color: #274C5B;
+font-size: 48px;
+font-weight: 800;
+font-family: "Roboto";
+width: 504px;
+}
+.type-text{
+color: #525C60;
+font-size: 16px;
+font-weight: 400;
+font-family: "Open Sans";
+width: 585px;
+}
+.resis-btn{
+    width: 300px;
+    height: 67px;
+    border-radius: 16px;
+    border: none;
+    color: #274C5B;
+    font-size: 15px;
+    font-weight: 800;
+    font-family: "Roboto";
+}
+.resis-btn:hover{
+    background-color: #939494;
+}
+.resis-btn:active{
+    background-color: #ebe7e7;
+}
+.ipsun-text{
+    color: #525C60;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Open Sans";
+    width: 444px;
+    margin-left: 15px;
+}
+.market-img{
+    width: 600px;
+    height: 500px;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+.market-box{
+    display: flex;
+    justify-content: space-around;
+}
+.round{
+    position: absolute;
+    margin: 22px 44px;
+}
+.suport-card{
+    width: 257px;
+    height: 295px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+}
+.polis-text{
+    color: #274C5B;
+    font-size: 23px;
+    font-weight: 800;
+    font-family: "Roboto";
+    margin: 5px 0;
+}
+.polis-title{
+    width: 168px;
+    color: #525C60;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.polis-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 29px;
+}
+.cards-four{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}

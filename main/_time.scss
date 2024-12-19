@@ -1,0 +1,70 @@
+.barco-card{
+width: 350px;
+height: 517px;
+border-radius: 30px;
+background-color: #f8f4f4;
+}
+.barco-img{
+    width: 350px;
+}
+.givo-name{
+color: #274C5B;
+font-size: 23px;
+font-weight: 800;
+font-family: "Roboto";
+// margin: 0;
+}
+.farmer-text{
+color: #7EB693;
+font-size: 20px;
+font-weight: 400;
+font-family: "Yellowtail";
+margin: 0;
+}
+.face-boxes{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.fermer-cards{
+    display: flex;
+    justify-content: space-between;
+}.barco-card:hover{
+    background-color: antiquewhite;
+}
+.face-box{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.team-text{
+    color: #7EB693;
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Yellowtail";
+    margin: 0
+}
+.our-title{
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: "Roboto";
+    margin: 0;
+}
+.ever-text{
+    width: 808px;
+    text-align: center;
+    color: #525C60;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+.team-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.three-section{
+    margin-top: 100px;
+}

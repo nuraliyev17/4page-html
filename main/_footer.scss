@@ -1,0 +1,59 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.contact-text{
+    font-size: 17px;
+    font-weight: 700;
+    font-family: "Open Sans";
+    margin-left: 140px;
+}
+.contact-title{
+    font-size: 17px;
+    font-weight: 700;
+    font-family: "Open Sans";
+    margin-left: 101px;
+}
+.not-href{
+    color: #525C60;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Open Sans";
+    margin-left: 20px;
+}
+.not-number{
+    color: #525C60;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Open Sans";
+    margin-left: 114px;
+}
+.not-title{
+    font-size: 16px;
+    font-weight: 400;
+    color: #525C60;
+    width: 490px;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.svg-box{
+    display: flex;
+    gap: 20px;
+}
+.organic-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.not-text{
+    color: #525C60;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Open Sans";
+
+}
+.line-svg{
+    height: 300px;
+}

@@ -1,0 +1,123 @@
+.img-about {
+    background-image: url(../img/about.png);
+    background-repeat: no-repeat;
+    width: 1506px;
+    height: 500px;
+}
+
+.two-page-text {
+    color: #274C5B;
+    font-size: 60px;
+    font-weight: 600;
+    font-family: sans-serif;
+    padding: 226px 623px;
+
+}
+
+.carot-img {
+    width: 600px;
+    height: 600px;
+    margin: 0 -58px;
+}
+
+.about-text {
+    color: #7EB693;
+    font-size: 35px;
+    font-weight: 400;
+    font-family: "Yellowtail";
+}
+
+.do-text {
+    color: #274C5B;
+    font-size: 50px;
+    font-weight: 800;
+    font-family: "Roboto";
+    width: 500px;
+    margin: 0;
+}
+.text-boxes{
+    padding: 0 18px;
+}
+
+.lorem-text {
+    color: #525C60;
+    font-size: 16px;
+    font-weight: 400;
+    width: 573px;
+    font-family: "Open Sans";
+}
+
+.trac-text {
+    color: #274C5B;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Roboto";
+    width: 238px;
+    margin: 0;
+}
+.more-btn{
+    width: 201px;
+    height: 59px;
+    border-radius: 16px;
+    border: none;
+    color: rgb(204, 200, 200);
+    font-size: 15px;
+    margin-top: 50px;
+}
+.more-btn:hover{
+    background-color: #274C5B;
+}
+.more-btn:active{
+    background-color: #525C60;
+}
+.more-img{
+    margin: -5px -44px;
+}
+.trac-box{
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-top: 20px;
+}
+.trac-boxes{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 15px;
+
+}
+.trac-title{
+    display: flex;
+}
+.carot-box{
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    border: none;
+    background: none;
+    display: none;
+}
+.menu-img{
+    width: 100px;
+    height: 100px;
+}
+
+
+&.active{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .href-box {
+        display: none;
+     
+    }
+    .menu{
+        display: block;
+    }
+    &.active{
+        display: none;
+    }
+
+  }

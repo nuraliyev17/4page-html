@@ -1,0 +1,48 @@
+.green {
+    background-color: #F1F8F4;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.img-whan {
+    background-image: url(../img/whan.jpg);
+    width: 444px;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.two-img {
+    background-image: url(../img/three.jpg);
+    width: 444px;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.three-img {
+    background-image: url(../img/five.jpg);
+    width: 444px;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.cooc-btn {
+    width: 300px;
+    height: 90px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Roboto";
+    border: none;
+    margin-top: 200px;
+    margin-left: 60px;
+}
+
+.cooc-btn:hover {
+    background-color: rgb(113, 121, 121);
+}
+
+.cooc-btn:active {
+    background-color: cadetblue;
+}
